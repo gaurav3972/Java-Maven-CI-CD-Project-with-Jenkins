@@ -39,7 +39,7 @@ mavenapp/
 3. **Set Up Jenkins Freestyle Job**
 
    * Source: GitHub
-   * Trigger: Webhook
+   * Trigger:  Webhook
    * Build: Maven Goal `clean install`
 
 4. **Push Code to GitHub**
