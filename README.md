@@ -9,7 +9,7 @@
 - **Basic Linux commands** for navigating and managing files.  
 - **Understanding of Git** for version control and repository management.  
 - **Familiarity with Maven** for dependency management and build automation.  
-- **Jenkins setup** with Maven and JDK installed. 
+- **Jenkins setup** with Maven and JDK installed . 
 Here are some **Learning Objectives** you can include for your Maven + Jenkins CI/CD project:
 
 ---
